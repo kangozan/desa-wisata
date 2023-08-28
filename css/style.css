@@ -1,0 +1,27 @@
+/* style navbar-brand dan hero */
+.container .navbar-brand,
+.hero h2 {
+  color: #ffd700;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+.hero p {
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+/* style profile, sejarah, media */
+#profil,
+#sejarah,
+#media {
+  background-color: #e2edff;
+}
+
+/* style card tiket, paket-trip hover */
+.container .card:hover {
+  background-color: #10221b;
+  color: white;
+}
+
+/* style section */
+section {
+  padding-top: 6rem;
+}
